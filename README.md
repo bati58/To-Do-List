@@ -1,4 +1,4 @@
-# To-Do-List
+
 # To-do List App
 
 A simple and interactive To-do List application built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed — perfect for managing daily tasks with a clean UI.
@@ -21,4 +21,4 @@ A simple and interactive To-do List application built using HTML, CSS, and JavaS
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bati58/To-do-List.git
+   git clone https://github.com/bati58/To-Do-List.git
