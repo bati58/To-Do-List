@@ -18,7 +18,3 @@ A simple and interactive To-do List application built using HTML, CSS, and JavaS
 - `style.css` – styling and responsiveness
 - `script.js` – logic for task management
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/bati58/To-Do-List.git
