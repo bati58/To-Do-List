@@ -4,7 +4,7 @@
 A simple and interactive To-do List application built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed — perfect for managing daily tasks with a clean UI.
 
 ## 🔗 Live Demo
-[View it on GitHub Pages](https://bati58.github.io/To-Do-List/)
+[View it on browser](https://bati58.github.io/To-Do-List/)
 
 ## ✨ Features
 - Add new tasks
