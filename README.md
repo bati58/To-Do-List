@@ -1,7 +1,7 @@
 
 # To-do List App
 <!-- user interface webpage-->
-![to-do-list](assets/f.png)
+![to-do-list](img/webpage-screenshot.jpg)
 
 A simple and interactive To-do List application built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed — perfect for managing daily tasks with a clean UI.
 
